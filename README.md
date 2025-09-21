@@ -1,2 +1,2 @@
-# learn-github-and-git
-An in-depth introduction to Git and Github
+# Learn Deep Learning
+Where I learn deep learning
