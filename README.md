@@ -1,2 +1,2 @@
-# Learn Deep Learning
-Where I learn deep learning
+# No bullshit deep learning
+My study notes for d2l.
